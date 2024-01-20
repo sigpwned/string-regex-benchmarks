@@ -1,0 +1,8 @@
+# Artifacts
+target/
+
+# Emacs junk
+*~
+
+# Maven junk
+dependency-reduced-pom.xml
