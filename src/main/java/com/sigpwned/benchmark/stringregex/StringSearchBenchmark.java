@@ -1,4 +1,4 @@
-package com.sigpwned.benchmark.stringpattern;
+package com.sigpwned.benchmark.stringregex;
 
 import java.io.IOException;
 import java.io.InputStream;
